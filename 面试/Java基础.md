@@ -1,6 +1,6 @@
 ## Java内部类
 
-###1. 静态嵌套类(Static Nested Class)和内部类(Inner Class)的不同？
+### 1. 静态嵌套类(Static Nested Class)和内部类(Inner Class)的不同？
 
 **内部类**
 
@@ -34,7 +34,7 @@
 
   
 
-###2. 下面的代码哪些地方会产生编译错误？
+### 2. 下面的代码哪些地方会产生编译错误？
 
    ```java
 class Outer {
